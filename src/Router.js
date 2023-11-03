@@ -1,5 +1,5 @@
 const Router=()=>{
-  return<div></div>
+  return<div>Good</div>
 }
 
 export default Router
